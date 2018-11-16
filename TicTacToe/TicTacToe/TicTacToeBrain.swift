@@ -8,8 +8,8 @@
 
 import Foundation
 
+
 class TicTacToeBrain {
-    // THIS IS WHERE YOU WILL MODEL YOUR LOGIC!!!!!
-  // function that checks in wins and loses
-// whose turn it is
+
+
 }
